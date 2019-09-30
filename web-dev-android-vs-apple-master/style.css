@@ -1,0 +1,47 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #cabfb6;
+}
+
+div {
+    margin: auto;
+    padding: 0.4px 100px 35px 100px;
+    width: 600px;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: #c9793b;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+h5 {
+    text-align: center;
+}
+
+a:hover {
+    border: 1px solid black
+}
+
+button {
+    Padding: 5px 25px;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: bold;
+    border-radius: 5px;
+}
+
+.an {
+    background-color: #a4c93b
+}
+
+I {
+    background-color: #b6bcca
+}
